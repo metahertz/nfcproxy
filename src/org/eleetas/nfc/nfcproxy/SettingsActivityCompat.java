@@ -21,6 +21,7 @@ import android.preference.Preference.OnPreferenceChangeListener;
 import android.text.SpannableString;
 import android.text.style.ForegroundColorSpan;
 import android.widget.Toast;
+import com.trxuk.nfc.R;
 
 public class SettingsActivityCompat extends PreferenceActivity {
 

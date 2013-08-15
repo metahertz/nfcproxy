@@ -3,7 +3,7 @@ package org.eleetas.nfc.nfcproxy.utils;
 import java.io.PrintWriter;
 import java.io.StringWriter;
 
-import org.eleetas.nfc.nfcproxy.R;
+import com.trxuk.nfc.R;
 
 import android.content.Context;
 import android.util.Log;

@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
+import com.trxuk.nfc.R;
 
 public class SelectorActivity extends Activity {
 

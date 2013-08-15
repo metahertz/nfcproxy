@@ -46,6 +46,7 @@ import android.widget.ScrollView;
 import android.widget.TabHost;
 import android.widget.TextView;
 import android.widget.Toast;
+import com.trxuk.nfc.R;
 
 public class NFCRelayActivity extends Activity {
 

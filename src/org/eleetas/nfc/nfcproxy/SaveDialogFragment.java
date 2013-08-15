@@ -13,6 +13,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.RadioGroup;
 import android.widget.RadioGroup.OnCheckedChangeListener;
+import com.trxuk.nfc.R;
 
 public class SaveDialogFragment extends DialogFragment {
 	static SaveDialogFragment newInstance() {

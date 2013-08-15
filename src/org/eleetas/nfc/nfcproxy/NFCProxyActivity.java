@@ -78,6 +78,7 @@ import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
 import android.widget.Toast;
+import com.trxuk.nfc.R;
 
 @SuppressLint("NewApi")
 public class NFCProxyActivity extends Activity {

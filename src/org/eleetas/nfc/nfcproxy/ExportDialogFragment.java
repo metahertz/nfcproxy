@@ -7,6 +7,7 @@ import android.content.DialogInterface;
 import android.os.Bundle;
 import android.text.InputType;
 import android.widget.EditText;
+import com.trxuk.nfc.R;
 
 public class ExportDialogFragment extends DialogFragment {
 	static ExportDialogFragment newInstance() {
